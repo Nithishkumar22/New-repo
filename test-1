@@ -1,6 +1,2 @@
-hy this is my practise session
-
-so what anyway carryo
-
-
-learing about merging
+#!/bin/bash
+echo "Hello World"
